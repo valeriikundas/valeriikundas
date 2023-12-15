@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![coding activity](https://wakatime.com/share/@valeriikundas/f77343f4-4aa8-4ba0-b832-3fee4a08b802.svg)
+
+
 <!--
 **valeriikundas/valeriikundas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
